@@ -301,8 +301,8 @@ Sau khi chạy, file thực thi `my_ls` sẽ được tạo trong thư mục g�
 
 | **Lệnh** | **Ý nghĩa** | **Minh họa (Screenshot)** |
 |-----------|--------------|-----------------------------|
-| `./my_ls` | Liệt kê tệp và thư mục trong thư mục hiện tại |<img width="514" height="77" alt="image" src="https://github.com/baoqp19/LTHT_Midterm/issues/2#issue-3584670188" />|
-| `./my_ls -a` | Hiển thị tất cả tệp (bao gồm tệp ẩn `.` và `..`) | <img width="521" height="76" alt="image" src="https://github.com/user-attachments/assets/beba3852-0ce5-4644-852e-70b3fb10a5c0" />|
+| `./my_ls` | Liệt kê tệp và thư mục trong thư mục hiện tại |<img width="503" height="123" alt="image" src="https://github.com/user-attachments/assets/0eb27cc5-11d7-4307-8417-3badb13893a4" />|
+| `./my_ls -a` | Hiển thị tất cả tệp (bao gồm tệp ẩn `.` và `..`) |<img width="671" height="113" alt="image" src="https://github.com/user-attachments/assets/683e7792-9ce2-4595-ab02-ed97156515c0" />|
 | `./my_ls -A` | Giống `-a` nhưng bỏ qua `.` và `..` | <img width="474" height="76" alt="image" src="https://github.com/user-attachments/assets/ecfcbc54-8f1d-41e7-9a13-621e17651eca" />|
 | `./my_ls -l` | Hiển thị chi tiết từng tệp: quyền, số liên kết, chủ sở hữu, nhóm, kích thước, thời gian |<img width="610" height="145" alt="image" src="https://github.com/user-attachments/assets/d0df259a-ee2c-4dee-ad87-d103bbf9b46f" />|
 | `./my_ls -lh` | Giống `-l` nhưng kích thước dễ đọc (KB, MB) |<img width="638" height="147" alt="image" src="https://github.com/user-attachments/assets/81a374bc-c194-4017-920b-7c4954b1bd21" />|
