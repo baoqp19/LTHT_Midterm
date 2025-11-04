@@ -50,23 +50,20 @@ Chương trình được viết hoàn toàn bằng ngôn ngữ **C**, nhằm m�
 ## 4. Cấu trúc thư mục dự án
 
 ```
-midterm_ls/
-│
-├── include/               # Header files (.h)
-│   ├── file_info.h
+myls/                # Thư mục gốc của dự án
+├── include/         # Chứa các file header (.h)
 │   ├── list_dir.h
+│   ├── file_info.h
 │   ├── options.h
 │   └── utils.h
-│
-├── src/                   # Source files (.c)
-│   ├── file_info.c        # Xử lý thông tin và định dạng hiển thị file
-│   ├── list_dir.c         # Liệt kê thư mục, xử lý -R, -a, -l, ...
-│   ├── options.c          # Phân tích tham số dòng lệnh (flag)
-│   ├── utils.c            # Hàm phụ trợ: sắp xếp, nối chuỗi, kiểm tra lỗi
-│   └── main.c             # Hàm main, điều phối toàn bộ chương trình
-│
-├── Makefile               # Tự động biên dịch project
-└── README.md              # Tài liệu hướng dẫn (file này)
+├── src/             # Chứa các file source (.c)
+│   ├── main.c
+│   ├── list_dir.c
+│   ├── file_info.c
+│   ├── options.c
+│   └── utils.c
+├── makefile         # File Makefile để build project
+└── my_ls            # File thực thi sau khi build
 ```
 
 ---
