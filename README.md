@@ -308,12 +308,13 @@ Sau khi chạy, file thực thi `my_ls` sẽ được tạo trong thư mục g�
 | `./my_ls -lh` | Giống `-l` nhưng kích thước dễ đọc (KB, MB) |<img width="718" height="179" alt="image" src="https://github.com/user-attachments/assets/ae69ea49-fa97-4fbc-8b6f-a2b474e139ca" />|
 | `./my_ls -R` | Đệ quy – liệt kê toàn bộ thư mục con | <img width="1116" height="244" alt="image" src="https://github.com/user-attachments/assets/0ddcc568-c9c4-420f-b5f3-409751f0d1c0" />|
 | `./my_ls -F` | Phân loại ký hiệu: `/` (thư mục), `*` (thực thi), `@` (liên kết) |<img width="566" height="42" alt="image" src="https://github.com/user-attachments/assets/ecec88e9-4cde-4c45-8dcc-0970681723be" />|
-| `./my_ls -t` | Sắp xếp theo thời gian chỉnh sửa (mới nhất trước) | <img width="445" height="77" alt="image" src="https://github.com/user-attachments/assets/8e7a3f0a-2f8e-461b-8841-9bf81e5e6498" />|
-| `./my_ls -S` | Sắp xếp theo kích thước tệp (lớn nhất trước) | <img width="464" height="74" alt="image" src="https://github.com/user-attachments/assets/d1036c7a-a0dd-4a7c-8376-0ddb573c3030" />|
-| `./my_ls -r` | Đảo ngược thứ tự sắp xếp | <img width="456" height="73" alt="image" src="https://github.com/user-attachments/assets/0f881f70-6cd5-4596-9983-eb37842e7686" />|
+| `./my_ls -t` | Sắp xếp theo thời gian chỉnh sửa (mới nhất trước) |<img width="507" height="85" alt="image" src="https://github.com/user-attachments/assets/6c496fdf-c731-4050-99b3-9b2c6d2c464a" />|
+| `./my_ls -S` | Sắp xếp theo kích thước tệp (lớn nhất trước) |<img width="531" height="93" alt="image" src="https://github.com/user-attachments/assets/1a1213b7-bcea-4e6c-9dad-2f4c36e167f3" />|
+| `./my_ls -r` | Đảo ngược thứ tự sắp xếp |<img width="515" height="94" alt="image" src="https://github.com/user-attachments/assets/0c05c3ec-aac5-421b-bed4-67208ecc98a5" />|
 | `./my_ls -n` | Hiển thị UID/GID dạng số thay vì tên | <img width="404" height="108" alt="image" src="https://github.com/user-attachments/assets/28269a77-66cc-4861-99c3-dbc1d775e861" />|
-| `./my_ls -is` | In thêm số inode và block của tệp | <img width="872" height="89" alt="image" src="https://github.com/user-attachments/assets/1baa09d7-c605-4df9-9e6d-5dd32c288d21" />|
-| `./my_ls -alhR` | Kết hợp nhiều tùy chọn cùng lúc (ẩn + chi tiết + dễ đọc + đệ quy) | <img width="677" height="523" alt="image" src="https://github.com/user-attachments/assets/aca4b5ed-b846-47cc-b000-d01b06f1814a" />|
+| `./my_ls -is` | In thêm số inode và block của tệp |<img width="870" height="98" alt="image" src="https://github.com/user-attachments/assets/56d7280d-66ac-4013-b65a-411c7804f4a8" />|
+| `./my_ls -alhR` | Kết hợp nhiều tùy chọn cùng lúc (ẩn + chi tiết + dễ đọc + đệ quy) |<img width="731" height="727" alt="image" src="https://github.com/user-attachments/assets/68c34078-d80e-41ec-aa7d-c7e2995ffcef" />
+|
 
 ---
 
