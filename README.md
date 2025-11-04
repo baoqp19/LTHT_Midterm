@@ -2,9 +2,9 @@
 
 ---
 
-**Sinh viên thực hiện:** Chu Ngọc Hoàng   
-**Mã sinh viên:** 23IT082  
-🔗Link truy cập GitHub: https://github.com/NgocHoang17/Midterm_ls.git
+**Sinh viên thực hiện:** Phạm Quốc Bảo   
+**Mã sinh viên:** 23IT018  
+🔗Link truy cập GitHub: https://github.com/baoqp19/LTHT_Midterm
 
 ---
 
