@@ -303,10 +303,10 @@ Sau khi chạy, file thực thi `my_ls` sẽ được tạo trong thư mục g�
 |-----------|--------------|-----------------------------|
 | `./my_ls` | Liệt kê tệp và thư mục trong thư mục hiện tại |<img width="503" height="123" alt="image" src="https://github.com/user-attachments/assets/0eb27cc5-11d7-4307-8417-3badb13893a4" />|
 | `./my_ls -a` | Hiển thị tất cả tệp (bao gồm tệp ẩn `.` và `..`) |<img width="671" height="113" alt="image" src="https://github.com/user-attachments/assets/683e7792-9ce2-4595-ab02-ed97156515c0" />|
-| `./my_ls -A` | Giống `-a` nhưng bỏ qua `.` và `..` | <img width="474" height="76" alt="image" src="https://github.com/user-attachments/assets/ecfcbc54-8f1d-41e7-9a13-621e17651eca" />|
-| `./my_ls -l` | Hiển thị chi tiết từng tệp: quyền, số liên kết, chủ sở hữu, nhóm, kích thước, thời gian |<img width="610" height="145" alt="image" src="https://github.com/user-attachments/assets/d0df259a-ee2c-4dee-ad87-d103bbf9b46f" />|
-| `./my_ls -lh` | Giống `-l` nhưng kích thước dễ đọc (KB, MB) |<img width="638" height="147" alt="image" src="https://github.com/user-attachments/assets/81a374bc-c194-4017-920b-7c4954b1bd21" />|
-| `./my_ls -R` | Đệ quy – liệt kê toàn bộ thư mục con | <img width="875" height="193" alt="image" src="https://github.com/user-attachments/assets/49fbd6bb-4df8-4c9d-bd9e-1b1c367a92a7" />|
+| `./my_ls -A` | Giống `-a` nhưng bỏ qua `.` và `..` |<img width="523" height="117" alt="image" src="https://github.com/user-attachments/assets/6b251d11-d6cc-4db5-bebe-a88f1d3ebb42" />|
+| `./my_ls -l` | Hiển thị chi tiết từng tệp: quyền, số liên kết, chủ sở hữu, nhóm, kích thước, thời gian |<img width="750" height="181" alt="image" src="https://github.com/user-attachments/assets/93fe700a-2b8a-4a98-b142-31ff5305572d" />|
+| `./my_ls -lh` | Giống `-l` nhưng kích thước dễ đọc (KB, MB) |<img width="718" height="179" alt="image" src="https://github.com/user-attachments/assets/ae69ea49-fa97-4fbc-8b6f-a2b474e139ca" />|
+| `./my_ls -R` | Đệ quy – liệt kê toàn bộ thư mục con | <img width="1116" height="244" alt="image" src="https://github.com/user-attachments/assets/0ddcc568-c9c4-420f-b5f3-409751f0d1c0" />|
 | `./my_ls -F` | Phân loại ký hiệu: `/` (thư mục), `*` (thực thi), `@` (liên kết) | <img width="410" height="46" alt="image" src="https://github.com/user-attachments/assets/eef6afc7-91aa-4387-958e-8ef385310a79" />|
 | `./my_ls -t` | Sắp xếp theo thời gian chỉnh sửa (mới nhất trước) | <img width="445" height="77" alt="image" src="https://github.com/user-attachments/assets/8e7a3f0a-2f8e-461b-8841-9bf81e5e6498" />|
 | `./my_ls -S` | Sắp xếp theo kích thước tệp (lớn nhất trước) | <img width="464" height="74" alt="image" src="https://github.com/user-attachments/assets/d1036c7a-a0dd-4a7c-8376-0ddb573c3030" />|
